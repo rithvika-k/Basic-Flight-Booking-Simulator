@@ -8,5 +8,5 @@ NOTES
 - implemented arrays and sorting arrays
 - implemented try and catch blocks 
 - implemented classes:
--- a Ticket class which acts as a storage to hold key attributes of any ticket object created although the Ticket class isnt used as much, its mainly to keep the code organized and make working with the attributes of any ticket object easier in the future (Future assignments as i build on this program)
+= a Ticket class which acts as a storage to hold key attributes of any ticket object created although the Ticket class isnt used as much, its mainly to keep the code organized and make working with the attributes of any ticket object easier in the future (Future assignments as i build on this program)
 */
